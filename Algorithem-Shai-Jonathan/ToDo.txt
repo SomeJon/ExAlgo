@@ -1,0 +1,11 @@
+1.	Finishing List build
+1.5	Building Point class to hold the Lists for each point, and be a part of the array
+2.	Finishing Graph build
+3.	Reading data from user(using either another class, or building methods to read data and build graphs)
+3.5	Building a static BuildTests class that build 3-5 diffrent graphs to check our algorithems
+3.6 Building an algorithem to check if a graph is a super
+5.	Building the view method in static class GraphMethods
+6.	Building the dfs method in the same class
+7.0 Chosing finishing algorithem
+7.1 Building algorithem
+8.	Testing and fixing
