@@ -7,9 +7,9 @@ using namespace std;
 
 class Graph {
 private:
-    vector<linkedList> adjList;
+    vector<linkedList> adjecentList;
     vector<bool> visited;
-    
+
 public:
     Graph();
     void MakeEmptyGraph(int n);
