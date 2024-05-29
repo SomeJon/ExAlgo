@@ -25,4 +25,7 @@ int main()
 
     }
 
+
+    mainGraph.reverseGraph();
+
 }
